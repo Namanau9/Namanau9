@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on AI projects<br>🌱 I’m currently learning many things<br>💬 Ask me about anything<br>AI/ML Enthusiast | Quick Learner | Eager to Learn, Build, and Innovate <br>⚡ Fun fact: I can code even with blindfolds on!!! ( JUST KIDDINGG :)  )
+👯 I’m looking to collaborate on AI projects<br>🌱 I’m currently learning many things<br>💬 Ask me about anything<br>🤖AI/ML Enthusiast | Quick Learner | Eager to Learn, Build, and Innovate <br>⚡ Fun fact: I can code even with blindfolds on!!! ( JUST KIDDINGG :)  )
 
 
 ## 🌐 Socials:
