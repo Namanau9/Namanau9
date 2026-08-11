@@ -12,8 +12,6 @@
 
 <h2 align="center">⌜ NAMAN A U ⌟ &nbsp;·&nbsp; <sub>THE&nbsp;NEURAL&nbsp;BATTLEMAGE</sub></h2>
 
-> **⚔️ Why "Neural Battlemage"?** Battlemagi strike from both blade and element — I swing *backend* spells (Python · FastAPI · SQL), enchant *frontend* glamour (React · Next.js · Tailwind), and channel the ancient arcana of **neural nets** (TensorFlow · PyTorch · OpenCV) end-to-end. One hero, every layer of the stack.
-
 ---
 
 ## 🪪 CHARACTER SHEET
