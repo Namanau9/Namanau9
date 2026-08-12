@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=20&pause=900&color=F7D488&center=true&vCenter=true&width=760&lines=%E2%9A%94%EF%B8%8F+EPIC+PROFILE+LOADED...+%E2%80%A2+CLASS+%3A+NEURAL+BATTLEMAGE;%F0%9F%A7%A0+AI%2FML+Enthusiast+%E2%80%A2+Quick+Learner+%E2%80%A2+Builder+of+Neural+Magic;%F0%9F%8C%B1+Leveling+%3A+B.E.+AI+%26+ML+%E2%80%A2+CGPA+9.42%2F10;%F0%9F%93%9C+Seeking+Parties+for+Co-op+AI+Quests+%E2%9A%94%EF%B8%8F" alt="Typing Spell" width="720"/>
 </p>
 
-<h2 align="center">⌜ NAMAN A U ⌟ &nbsp;·&nbsp; <sub>THE&nbsp;NEURAL&nbsp;BATTLEMAGE</sub></h2>
+<h2 align="center">⌜ NAMAN A U ⌟ &nbsp;·&nbsp;</h2>
 
 ---
 
@@ -132,9 +132,6 @@
 | Introduction to Generative AI | Google Cloud | — |
 | Computer Networking | Scaler | — |
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Namanau9&theme=onepiece&no-frame=true&row=2&column=4&margin-w=12&margin-h=12" alt="Live Trophy Case"/>
-</p>
 
 ---
 
